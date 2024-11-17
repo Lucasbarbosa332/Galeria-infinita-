@@ -7,14 +7,9 @@ Este é um projeto desenvolvido com Vue.js, que cria uma galeria infinita de ima
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- <img width=50% src=""></img>![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ <img width=50% src="https://github.com/Lucasbarbosa332/Galeria-infinita-/blob/main/Captura%20de%20tela%202024-11-13%20061320.png"></img>![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
- <img width=50% src=""></img>
-
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-
-
- ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+ 
 
 
 # 🚀 Começando

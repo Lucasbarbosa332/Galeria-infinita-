@@ -5,6 +5,18 @@
 
 Este é um projeto desenvolvido com Vue.js, que cria uma galeria infinita de imagens inspiradas nas obras de Piet Mondrian. À medida que o usuário rola a página, novas imagens são carregadas automaticamente, proporcionando uma experiência visual contínua.
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+ <img width=50% src=""></img>![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+ <img width=50% src=""></img>
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
 # 🚀 Começando
 
  Siga os passos abaixo para rodar a galeria de imagens no seu ambiente local.
